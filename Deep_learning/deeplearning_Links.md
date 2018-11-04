@@ -17,5 +17,6 @@ https://www.depends-on-the-definition.com/guide-to-multi-label-classification-wi
 
 #  Optimizer functions in neural network:
 http://ruder.io/optimizing-gradient-descent/
+http://cs231n.github.io/neural-networks-3/
 
 
