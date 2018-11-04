@@ -1,6 +1,6 @@
 # Loss_function:
 https://heartbeat.fritz.ai/5-regression-loss-functions-all-machine-learners-should-know-4fb140e9d4b0
-
+https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html
 
 
 # L1 and L2 loss:
