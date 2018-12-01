@@ -22,6 +22,10 @@ http://ruder.io/optimizing-gradient-descent/
 http://cs231n.github.io/neural-networks-3/
 
 
+# Momentum:
+https://distill.pub/2017/momentum/
+
+
 # RNN:
 http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/
 
