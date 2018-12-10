@@ -22,6 +22,8 @@ http://cs231n.github.io/neural-networks-3/
 
 # Batch Normalization :
 
+https://blog.paperspace.com/busting-the-myths-about-batch-normalization/
+
 https://towardsdatascience.com/batch-normalization-in-neural-networks-1ac91516821c
 
 http://mlexplained.com/2018/01/13/weight-normalization-and-layer-normalization-explained-normalization-in-deep-learning-part-2/ 
