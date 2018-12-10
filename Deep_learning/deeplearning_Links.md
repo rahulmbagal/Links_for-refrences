@@ -35,7 +35,12 @@ http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backprop
 
 # CNN Time series:
 http://blog.avenuecode.com/using-deep-convolutional-neural-networks-dcnns-for-time-series-forecasting-using-tensorflow-part-1
+
 http://blog.avenuecode.com/using-deep-convolutional-neural-networks-dcnns-for-time-series-forecasting-using-tensorflow-part-2
+
 http://blog.avenuecode.com/using-deep-convolutional-neural-networks-dcnns-for-time-series-forecasting-using-tensorflow-part-3
+
+
+
 
 
