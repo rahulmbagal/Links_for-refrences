@@ -12,7 +12,6 @@ http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regulari
 https://towardsdatascience.com/demystifying-cross-entropy-e80e3ad54a8
 
 
-
 # Multi-Class Multi-Label Classification With Neural Networks:
 https://www.depends-on-the-definition.com/guide-to-multi-label-classification-with-neural-networks
 
@@ -20,6 +19,15 @@ https://www.depends-on-the-definition.com/guide-to-multi-label-classification-wi
 http://ruder.io/optimizing-gradient-descent/
 
 http://cs231n.github.io/neural-networks-3/
+
+# Batch Normalization :
+
+https://towardsdatascience.com/batch-normalization-in-neural-networks-1ac91516821c
+
+http://mlexplained.com/2018/01/13/weight-normalization-and-layer-normalization-explained-normalization-in-deep-learning-part-2/ 
+
+https://medium.com/@ilango100/batch-normalization-speed-up-neural-network-training-245e39a62f85
+
 
 
 # Momentum:
