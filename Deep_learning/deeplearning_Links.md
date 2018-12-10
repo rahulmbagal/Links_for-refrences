@@ -29,6 +29,17 @@ http://mlexplained.com/2018/01/13/weight-normalization-and-layer-normalization-e
 https://medium.com/@ilango100/batch-normalization-speed-up-neural-network-training-245e39a62f85
 
 
+# Local Minima problem:
+
+https://blog.paperspace.com/intro-to-optimization-in-deep-learning-gradient-descent/
+
+https://blog.paperspace.com/intro-to-optimization-in-deep-learning-gradient-descent/
+
+
+# Vanishing gradients:
+
+https://blog.paperspace.com/vanishing-gradients-activation-function/
+
 
 # Momentum:
 https://distill.pub/2017/momentum/
