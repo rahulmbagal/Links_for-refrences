@@ -1,12 +1,16 @@
 # Loss_function:
 https://heartbeat.fritz.ai/5-regression-loss-functions-all-machine-learners-should-know-4fb140e9d4b0
 
+
 https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html
 
 
 # L1 and L2 loss:
 http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/
 
+# L2 Regulisation adding to the cost function:
+
+https://github.com/keras-team/keras/issues/2104
 
 # cross entropy:
 https://towardsdatascience.com/demystifying-cross-entropy-e80e3ad54a8
