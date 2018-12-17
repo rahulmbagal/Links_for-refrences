@@ -1,6 +1,7 @@
 # Loss_function:
 https://heartbeat.fritz.ai/5-regression-loss-functions-all-machine-learners-should-know-4fb140e9d4b0
 
+https://medium.com/@risingdeveloper/visualization-of-some-loss-functions-for-deep-learning-with-tensorflow-9f60be9d09f9
 
 https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html
 
