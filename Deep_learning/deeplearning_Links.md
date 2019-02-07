@@ -58,6 +58,9 @@ https://blog.paperspace.com/vanishing-gradients-activation-function/
 https://distill.pub/2017/momentum/
 
 
+# Gradient Checkpoint:
+https://github.com/openai/gradient-checkpointing
+
 # RNN:
 http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/
 
