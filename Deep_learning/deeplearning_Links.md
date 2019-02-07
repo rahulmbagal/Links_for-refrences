@@ -35,6 +35,12 @@ http://mlexplained.com/2018/01/13/weight-normalization-and-layer-normalization-e
 
 https://medium.com/@ilango100/batch-normalization-speed-up-neural-network-training-245e39a62f85
 
+# Batch ReNormalization :
+https://medium.com/luminovo/a-refresher-on-batch-re-normalization-5e0a1e902960
+
+https://www.quora.com/Could-Batch-Renormalization-replace-Virtual-Batch-Normalization-in-GANs
+
+
 
 # Local Minima problem:
 
