@@ -13,6 +13,10 @@ http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regulari
 
 https://github.com/keras-team/keras/issues/2104
 
+# Regulisation in Neural network TensorflowL
+
+https://www.ritchieng.com/machine-learning/deep-learning/tensorflow/regularization/
+
 # cross entropy:
 https://towardsdatascience.com/demystifying-cross-entropy-e80e3ad54a8
 
