@@ -14,4 +14,6 @@ https://medium.com/greyatom/lets-learn-about-auc-roc-curve-4a94b4d88152
 # micro-average-vs-macro-average-performance
 https://datascience.stackexchange.com/questions/15989/micro-average-vs-macro-average-performance-in-a-multiclass-classification-settin
 
+https://www.youtube.com/watch?v=xugjARegisk
 
+https://www.youtube.com/watch?v=DF-rJA-eOUQ
