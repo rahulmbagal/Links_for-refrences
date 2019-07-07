@@ -81,5 +81,11 @@ http://blog.avenuecode.com/using-deep-convolutional-neural-networks-dcnns-for-ti
 
 
 
+# goldilocks learning rate:
 
+
+
+# Difference between SGD,  Gradient decent and mini batch gradient decent:
+
+https://datascience.stackexchange.com/questions/53870/how-do-gd-batch-gd-sgd-and-mini-batch-sgd-differ/53915
 
