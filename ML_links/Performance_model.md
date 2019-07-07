@@ -19,3 +19,7 @@ https://datascience.stackexchange.com/questions/15989/micro-average-vs-macro-ave
 https://www.youtube.com/watch?v=xugjARegisk
 
 https://www.youtube.com/watch?v=DF-rJA-eOUQ
+
+
+# Precision and Recall at K method:
+https://medium.com/@m_n_malaeb/recall-and-precision-at-k-for-recommender-systems-618483226c54
