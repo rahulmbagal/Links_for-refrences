@@ -1,3 +1,9 @@
+
+# Deep learning indian course
+https://www.cse.iitm.ac.in/~miteshk/CS7015.html
+https://www.youtube.com/watch?v=ewN0vFYFJ7A&list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT&index=37
+
+
 # Loss_function:
 https://heartbeat.fritz.ai/5-regression-loss-functions-all-machine-learners-should-know-4fb140e9d4b0
 
