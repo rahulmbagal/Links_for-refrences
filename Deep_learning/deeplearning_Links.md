@@ -1,6 +1,7 @@
 
 # Deep learning indian course
 https://www.cse.iitm.ac.in/~miteshk/CS7015.html
+
 https://www.youtube.com/watch?v=ewN0vFYFJ7A&list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT&index=37
 
 
