@@ -1,3 +1,7 @@
+# TF tutorials links
+
+https://data-flair.training/blogs/mandelbrot-set-in-tensorflow/
+
 
 # Deep learning indian course
 https://www.cse.iitm.ac.in/~miteshk/CS7015.html
