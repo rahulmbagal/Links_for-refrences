@@ -1,3 +1,8 @@
+# Cousera GCP:
+
+https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/courses/machine_learning/deepdive/06_structured/3_tensorflow_dnn.ipynb
+
+
 # TF tutorials links
 
 https://data-flair.training/blogs/mandelbrot-set-in-tensorflow/
