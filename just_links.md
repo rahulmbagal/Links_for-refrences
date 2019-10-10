@@ -8,7 +8,9 @@ https://github.com/GoogleCloudPlatform/tf-estimator-tutorials
 The various methods used for dimensionality reduction include:
 
 Principal Component Analysis (PCA)
+
 Linear Discriminant Analysis (LDA)
+
 Generalized Discriminant Analysis (GDA)
 
 
