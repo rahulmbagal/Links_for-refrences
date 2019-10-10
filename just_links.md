@@ -3,7 +3,7 @@ https://blog.floydhub.com/similar-fashion-images/
 
 https://github.com/GoogleCloudPlatform/tf-estimator-tutorials
 
-## tops to learn 
+## topics to learn 
 
 The various methods used for dimensionality reduction include:
 
