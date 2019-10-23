@@ -93,6 +93,8 @@ http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backprop
 
 https://hergott.github.io/lstm-attention-bond-market-taper-tantrum/
 
+https://medium.com/@jbetker/implementing-seq2seq-with-attention-in-keras-63565c8e498c
+
 
 # CNN Time series:
 http://blog.avenuecode.com/using-deep-convolutional-neural-networks-dcnns-for-time-series-forecasting-using-tensorflow-part-1
