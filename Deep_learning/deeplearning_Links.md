@@ -88,6 +88,12 @@ http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backprop
 
 # LSTM
 
+
+# attention model LSTM
+
+https://hergott.github.io/lstm-attention-bond-market-taper-tantrum/
+
+
 # CNN Time series:
 http://blog.avenuecode.com/using-deep-convolutional-neural-networks-dcnns-for-time-series-forecasting-using-tensorflow-part-1
 
