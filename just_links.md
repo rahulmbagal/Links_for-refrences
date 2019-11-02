@@ -14,5 +14,12 @@ Linear Discriminant Analysis (LDA)
 Generalized Discriminant Analysis (GDA)
 
 
+https://medium.com/@smallfishbigsea/understand-ssd-and-implement-your-own-caa3232cd6ad
+
+https://www.di.ens.fr/willow/research/netvlad/
+
+
+
+
 
 
