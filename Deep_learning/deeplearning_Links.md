@@ -88,6 +88,8 @@ http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backprop
 
 # LSTM
 
+https://www.coursera.org/lecture/ai/number-of-parameters-A3N10
+
 
 # attention model LSTM
 
