@@ -90,6 +90,8 @@ http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backprop
 
 https://www.coursera.org/lecture/ai/number-of-parameters-A3N10
 
+https://www.quora.com/How-is-the-hidden-state-h-different-from-the-memory-c-in-an-LSTM-cell
+
 
 # attention model LSTM
 
