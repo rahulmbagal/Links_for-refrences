@@ -92,6 +92,9 @@ https://www.coursera.org/lecture/ai/number-of-parameters-A3N10
 
 https://www.quora.com/How-is-the-hidden-state-h-different-from-the-memory-c-in-an-LSTM-cell
 
+https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
+
+https://jasdeep06.github.io/posts/Understanding-LSTM-in-Tensorflow-MNIST/
 
 # attention model LSTM
 
