@@ -96,6 +96,8 @@ https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-st
 
 https://jasdeep06.github.io/posts/Understanding-LSTM-in-Tensorflow-MNIST/
 
+https://machinelearningmastery.com/use-different-batch-sizes-training-predicting-python-keras/
+
 # attention model LSTM
 
 https://hergott.github.io/lstm-attention-bond-market-taper-tantrum/
