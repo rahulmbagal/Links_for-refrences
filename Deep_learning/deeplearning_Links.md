@@ -136,3 +136,8 @@ https://towardsdatascience.com/review-dilated-convolution-semantic-segmentation-
 https://towardsdatascience.com/understanding-2d-dilated-convolution-operation-with-examples-in-numpy-and-tensorflow-with-d376b3972b25
 
 https://www.youtube.com/watch?v=BB29er38c0o
+
+
+# Label Smoothing in keras
+
+https://www.pyimagesearch.com/2019/12/30/label-smoothing-with-keras-tensorflow-and-deep-learning/
