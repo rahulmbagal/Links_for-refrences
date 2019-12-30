@@ -122,3 +122,17 @@ http://blog.avenuecode.com/using-deep-convolutional-neural-networks-dcnns-for-ti
 
 https://datascience.stackexchange.com/questions/53870/how-do-gd-batch-gd-sgd-and-mini-batch-sgd-differ/53915
 
+
+# Global Avg Pooling
+
+https://alexisbcook.github.io/2017/global-average-pooling-layers-for-object-localization/
+
+
+
+# dilated-convolution
+
+https://towardsdatascience.com/review-dilated-convolution-semantic-segmentation-9d5a5bd768f5
+
+https://towardsdatascience.com/understanding-2d-dilated-convolution-operation-with-examples-in-numpy-and-tensorflow-with-d376b3972b25
+
+https://www.youtube.com/watch?v=BB29er38c0o
