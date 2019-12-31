@@ -20,3 +20,8 @@ https://www.youtube.com/watch?v=BB29er38c0o
 https://www.pyimagesearch.com/2019/12/30/label-smoothing-with-keras-tensorflow-and-deep-learning/
 
 https://medium.com/@nainaakash012/when-does-label-smoothing-help-89654ec75326
+
+
+# Class Activation Map
+
+http://marubon-ds.blogspot.com/2018/03/class-activation-map-with-keras.html
