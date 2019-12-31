@@ -18,3 +18,5 @@ https://www.youtube.com/watch?v=BB29er38c0o
 
 # Label Smoothing in keras
 https://www.pyimagesearch.com/2019/12/30/label-smoothing-with-keras-tensorflow-and-deep-learning/
+
+https://medium.com/@nainaakash012/when-does-label-smoothing-help-89654ec75326
