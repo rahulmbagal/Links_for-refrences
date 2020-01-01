@@ -7,7 +7,10 @@ https://medium.com/@thelastalias/saliency-maps-for-deep-learning-part-1-vanilla-
 https://portal.klewel.com/watch/webcast/valaiswallis-ai-workshop-5th-edition-interpreting-machine-learning/talk/7/
 
 # Global Avg Pooling
+
 https://alexisbcook.github.io/2017/global-average-pooling-layers-for-object-localization/
+
+https://www.quora.com/What-is-the-benefit-of-using-average-pooling-rather-than-max-pooling#
 
 # dilated-convolution
 https://towardsdatascience.com/review-dilated-convolution-semantic-segmentation-9d5a5bd768f5
