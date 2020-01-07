@@ -45,6 +45,13 @@ http://ruder.io/optimizing-gradient-descent/
 
 http://cs231n.github.io/neural-networks-3/
 
+# Ralamb optimizer (RAdam + LARS trick):
+
+https://gist.github.com/redknightlois/c4023d393eb8f92bb44b2ab582d7ec20
+
+# Ranger:
+https://github.com/lessw2020/Ranger-Deep-Learning-Optimizer
+
 # Batch Normalization :
 
 https://blog.paperspace.com/busting-the-myths-about-batch-normalization/
