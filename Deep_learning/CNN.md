@@ -28,3 +28,8 @@ https://medium.com/@nainaakash012/when-does-label-smoothing-help-89654ec75326
 # Class Activation Map
 
 http://marubon-ds.blogspot.com/2018/03/class-activation-map-with-keras.html
+
+
+# latest methods
+
+https://leogao.dev/2019/12/31/The-Decade-of-Deep-Learning/
