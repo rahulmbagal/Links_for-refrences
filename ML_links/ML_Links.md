@@ -8,3 +8,5 @@ https://www.coursera.org/lecture/text-mining/2-1-syntagmatic-relation-discovery-
 # Gini Index :
 
 https://towardsdatascience.com/gini-coefficient-and-lorenz-curve-f19bb8f46d66
+
+http://www.learnbymarketing.com/481/decision-tree-flavors-gini-info-gain/
