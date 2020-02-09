@@ -33,3 +33,7 @@ http://marubon-ds.blogspot.com/2018/03/class-activation-map-with-keras.html
 # latest methods
 
 https://leogao.dev/2019/12/31/The-Decade-of-Deep-Learning/
+
+# How to deal with image resizing in Deep Learning
+
+https://medium.com/neuronio/how-to-deal-with-image-resizing-in-deep-learning-e5177fad7d89
