@@ -37,3 +37,7 @@ https://leogao.dev/2019/12/31/The-Decade-of-Deep-Learning/
 # How to deal with image resizing in Deep Learning
 
 https://medium.com/neuronio/how-to-deal-with-image-resizing-in-deep-learning-e5177fad7d89
+
+# top technqiues in Computer Vision:
+
+https://heartbeat.fritz.ai/the-5-computer-vision-techniques-that-will-change-how-you-see-the-world-1ee19334354b
