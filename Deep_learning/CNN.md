@@ -46,4 +46,6 @@ https://heartbeat.fritz.ai/the-5-computer-vision-techniques-that-will-change-how
 
 # List of the augumentation uisng opencv -- very important
 
+https://github.com/AISangam/Image-Augmentation-Using-OpenCV-and-Python
+
 https://github.com/AISangam/Image-Augmentation-Using-OpenCV-and-Python/blob/master/Image%20Augmentaion%20Part1.py
