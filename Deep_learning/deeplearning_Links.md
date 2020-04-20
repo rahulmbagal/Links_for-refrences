@@ -40,6 +40,10 @@ https://towardsdatascience.com/demystifying-cross-entropy-e80e3ad54a8
 # Multi-Class Multi-Label Classification With Neural Networks:
 https://www.depends-on-the-definition.com/guide-to-multi-label-classification-with-neural-networks
 
+https://gombru.github.io/2018/05/23/cross_entropy_loss/
+
+
+
 #  Optimizer functions in neural network:
 http://ruder.io/optimizing-gradient-descent/
 
