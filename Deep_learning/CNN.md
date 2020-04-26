@@ -49,3 +49,15 @@ https://heartbeat.fritz.ai/the-5-computer-vision-techniques-that-will-change-how
 https://github.com/AISangam/Image-Augmentation-Using-OpenCV-and-Python
 
 https://github.com/AISangam/Image-Augmentation-Using-OpenCV-and-Python/blob/master/Image%20Augmentaion%20Part1.py
+
+
+# Multi Task Learning
+
+https://towardsdatascience.com/face-allignment-deep-multi-task-learning-203f46a22106
+
+
+# phash
+
+http://www.hackerfactor.com/blog/index.php?/archives/529-Kind-of-Like-That.html
+
+http://www.hackerfactor.com/blog/index.php?/archives/432-Looks-Like-It.html
