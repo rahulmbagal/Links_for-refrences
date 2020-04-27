@@ -61,3 +61,8 @@ https://towardsdatascience.com/face-allignment-deep-multi-task-learning-203f46a2
 http://www.hackerfactor.com/blog/index.php?/archives/529-Kind-of-Like-That.html
 
 http://www.hackerfactor.com/blog/index.php?/archives/432-Looks-Like-It.html
+
+
+# no. of parameters in CNN
+
+https://www.learnopencv.com/number-of-parameters-and-tensor-sizes-in-convolutional-neural-network/
