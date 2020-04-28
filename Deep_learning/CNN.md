@@ -63,6 +63,12 @@ http://www.hackerfactor.com/blog/index.php?/archives/529-Kind-of-Like-That.html
 http://www.hackerfactor.com/blog/index.php?/archives/432-Looks-Like-It.html
 
 
+
+
+
+http://i-systems.github.io/HSE545/machine%20learning%20all/Workshop/180208_COSEIK/06_CNN.html
+
+
 # no. of parameters in CNN
 
 https://www.learnopencv.com/number-of-parameters-and-tensor-sizes-in-convolutional-neural-network/
