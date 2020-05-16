@@ -1,3 +1,8 @@
+# Choosing the Right Metric for Evaluating Machine Learning Models
+
+https://medium.com/usf-msds/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428
+
+
 # metrics for multi class:
 https://blog.revolutionanalytics.com/2016/03/com_class_eval_metrics_r.html
 
