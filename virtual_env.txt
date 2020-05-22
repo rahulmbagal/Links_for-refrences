@@ -1,0 +1,19 @@
+conda info --envs
+conda env list
+
+
+conda remove --name myenv --all
+
+
+conda create -n TL python=3.8.2
+conda activate nlp
+conda deactivate
+
+
+ipython kernel install --name TL
+
+
+conda remove --name TL --all
+
+
+conda create -n TL python=3.6
