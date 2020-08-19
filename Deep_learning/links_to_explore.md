@@ -4,3 +4,6 @@
 https://towardsdatascience.com/attention-and-its-different-forms-7fc3674d14dc
 
 
+https://towardsdatascience.com/rip-correlation-introducing-the-predictive-power-score-3d90808b9598
+
+
