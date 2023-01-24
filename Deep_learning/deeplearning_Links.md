@@ -152,3 +152,14 @@ https://www.youtube.com/watch?v=BB29er38c0o
 # Label Smoothing in keras
 
 https://www.pyimagesearch.com/2019/12/30/label-smoothing-with-keras-tensorflow-and-deep-learning/
+
+
+# learning 
+
+https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/DL2/High-performant_DL/Multi_GPU/hpdlmultigpu.html
+
+multi-layer transformer network
+
+variational autoencoder 
+
+GAN
