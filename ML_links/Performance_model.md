@@ -2,6 +2,9 @@
 
 https://medium.com/usf-msds/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428
 
+# Why are precision, recall and F1 score equal when using micro averaging in a multi-class problem?
+
+https://simonhessner.de/why-are-precision-recall-and-f1-score-equal-when-using-micro-averaging-in-a-multi-class-problem/
 
 # metrics for multi class:
 https://blog.revolutionanalytics.com/2016/03/com_class_eval_metrics_r.html
